@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <psi4t>
 <launcher author="Psi4T">
-<version>0.0.0.1</version>
+<version>0.1.5.0</version>
 <versionupdater>0.0.1</versionupdater>
 </launcher>
 </psi4t>
