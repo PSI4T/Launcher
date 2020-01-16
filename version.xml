@@ -1,9 +1,9 @@
 <psi4t>
 <launcher author="Psi4T" version="0.1.5.1" url="https://github.com/PSI4T/prahk/blob/master/apps/PRASQUAD.exe?raw=true">
-<file name="PRARP.exe" weight="200" SHA1="TESTSHA1" MD5="TESTMD5">PRARP.exe</file>
-<file name="image.png" weight="200" SHA1="TESTSHA1" MD5="TESTMD5">image.png</file>
-<file name="help.png" weight="200" SHA1="TESTSHA1" MD5="TESTMD5">help.png</file>
-<file name="error.png" weight="200" SHA1="TESTSHA1" MD5="TESTMD5">error.png</file>
-<file name="heandling.txt" weight="200" SHA1="TESTSHA1" MD5="TESTMD5">heandling.txt</file>
+<file name="PRARP.exe" SHA1="TESTSHA1" MD5="TESTMD5">PRARP.exe</file>
+<file name="image.png" SHA1="TESTSHA1" MD5="TESTMD5">image.png</file>
+<file name="help.png" SHA1="TESTSHA1" MD5="TESTMD5">help.png</file>
+<file name="error.png" SHA1="TESTSHA1" MD5="TESTMD5">error.png</file>
+<file name="heandling.txt" SHA1="TESTSHA1" MD5="TESTMD5">heandling.txt</file>
 </launcher>
 </psi4t>
