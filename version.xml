@@ -8,8 +8,4 @@
 <file name="test2.png" weight="200" SHA1="DEATHENORTH" MD5="TESTMD5">
 <file name="test3.png" weight="200" SHA1="DEATHENORTH" MD5="TESTMD5">
 </launcher>
-<launcher>
-  <version>0.1.7.0</version>
-  <versionupdater>0.5.1</versionupdater>
-</launcher>
 </psi4t>
