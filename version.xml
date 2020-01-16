@@ -1,7 +1,7 @@
 <psi4t>
 <launcher author="Psi4T" version="0.0.4.1" versionupdater="0.0.1.5">
-<file name="test.png" weight="200" SHA1="DEATHENORTH" MD5="TESTMD5">
-<file name="test2.png" weight="200" SHA1="DEATHENORTH" MD5="TESTMD5">
-<file name="test3.png" weight="200" SHA1="DEATHENORTH" MD5="TESTMD5">
+<file name="test.png" weight="200" SHA1="DEATHENORTH" MD5="TESTMD5">tyt1</file>
+<file name="test2.png" weight="200" SHA1="DEATHENORTH" MD5="TESTMD5">tyt2</file>
+<file name="test3.png" weight="200" SHA1="DEATHENORTH" MD5="TESTMD5">0</file>
 </launcher>
 </psi4t>
