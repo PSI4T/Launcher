@@ -1,7 +1,8 @@
 <psi4t>
-<launcher author="Psi4T">
+<launcher author="Psi4T" version="0.0.4.1 versionupdater="0.0.1.5">
 <version>0.1.5.0</version>
 <version>0.1.6.0</version>
 <versionupdater>0.0.1</versionupdater>
+<versionupdater>0.5.1</versionupdater>
 </launcher>
 </psi4t>
