@@ -1,11 +1,6 @@
 <psi4t>
-<launcher author="Psi4T" version="0.1.8.0" versionupdater="0.0.5">
+<launcher author="Psi4T">
 <version>0.1.5.0</version>
-<version>0.1.6.0</version>
 <versionupdater>0.0.1</versionupdater>
-<versionupdater>0.1.1</versionupdater>
-<file name="test.png" weight="200" SHA1="DEATHENORTH" MD5="TESTMD5">
-<file name="test2.png" weight="200" SHA1="DEATHENORTH" MD5="TESTMD5">
-<file name="test3.png" weight="200" SHA1="DEATHENORTH" MD5="TESTMD5">
 </launcher>
 </psi4t>
