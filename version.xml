@@ -1,9 +1,9 @@
 <psi4t>
 <launcher author="Psi4T" name="PRARP" version="0.1.5.1" url="https://github.com/PSI4T/prahk/blob/master/apps/PRASQUAD.exe?raw=true">
-<file url="PRARP.exe" SHA1="TESTSHA1" MD5="TESTMD5">@PRARP.exe</file>
-<file url="image.png" SHA1="TESTSHA1" MD5="TESTMD5">@MTA\cgui\images\background.png</file>
-<file url="help.png" SHA1="TESTSHA1" MD5="TESTMD5">@MTA\cgui\images\background_logo.png</file>
-<file url="error.jpg" SHA1="TESTSHA1" MD5="TESTMD5">@MTA\cgui\images\radar.jpg</file>
-<file url="heandling.txt" SHA1="TESTSHA1" MD5="TESTMD5">@MTA\cgui\images\radarset\16.png</file>
+<file url="https://PRARP.exe" sha1="TESTSHA1" md5="TESTMD5">@PRARP.exe</file>
+<file url="https://image.png" sha1="TESTSHA1" md5="TESTMD5">@MTA\cgui\images\background.png</file>
+<file url="https://help.png" sha1="TESTSHA1" md5="TESTMD5">@MTA\cgui\images\background_logo.png</file>
+<file url="https://error.jpg" sha1="TESTSHA1" md5="TESTMD5">@MTA\cgui\images\radar.jpg</file>
+<file url="https://heandling.txt" sha1="TESTSHA1" md5="TESTMD5">@MTA\cgui\images\radarset\16.png</file>
 </launcher>
 </psi4t>
