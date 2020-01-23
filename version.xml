@@ -1,9 +1,10 @@
 <psi4t>
 <launcher author="Psi4T" name="PRARP" version="0.1.5.1" url="https://github.com/PSI4T/prahk/blob/master/apps/PRASQUAD.exe?raw=true">
-<file url="https://PRARP.exe" sha1="TESTSHA1" md5="TESTMD5">@PRARP.exe</file>
-<file url="https://image.png" sha1="TESTSHA1" md5="TESTMD5">@MTA\cgui\images\background.png</file>
-<file url="https://help.png" sha1="TESTSHA1" md5="TESTMD5">@MTA\cgui\images\background_logo.png</file>
-<file url="https://error.jpg" sha1="TESTSHA1" md5="TESTMD5">@MTA\cgui\images\radar.jpg</file>
-<file url="https://heandling.txt" sha1="TESTSHA1" md5="TESTMD5">@MTA\cgui\images\radarset\16.png</file>
+<file lenght="124092" md5="ADB8C2DEC965AD0A1A858550CEBD4C2B" src="PRARP.exe">https://PRARP.exe</file>
+<file lenght="23523" md5="BF87F54C695D70D354BEF67FAB5AFDBC" src="Test1.txt">https://image.png</file>
+<file lenght="23523" md5="F0B6D3C9CE08D7520CE0880755C559BB" src="Test2.txt">https://help.png</file>
+<file lenght="23532" md5="419E4410DA152C74D727270283CB94CE" src="Test3.txt">https://error.jpg</file>
+<file lenght="235325" md5="468171C825C02408CC99935447C785A5" src="New\Test4.txt>https://heandling.txt</file>
+<file lenght="235325" md5="3D8734E22BE6F6BB27DE08A784D8250A" src="New\Test5.txt>https://heandling.txt</file>
 </launcher>
 </psi4t>
